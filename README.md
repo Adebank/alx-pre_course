@@ -1,1 +1,1 @@
-Being a software engineer is fun, this is my first repository
+I love to code. this is my first repo.
